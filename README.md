@@ -13,4 +13,4 @@ _This sentence is italicized because it is wrapped in underlines._
 
 **_This sentence is bold and in italics because it is wrapped in both._**
 
-This sentence links to [google](www.google.com).
+This sentence links to [google](https://www.google.com/).
