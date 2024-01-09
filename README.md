@@ -9,8 +9,8 @@ This repository is an example repo for students to reference and for the instruc
 
 **This sentence in bolded because it is wrapped in asterisks.**
 
-_This sentence is italicized because it is wrapped in underlines_
+_This sentence is italicized because it is wrapped in underlines._
 
-**_This sentence is bold and in italics because it is wrapped in both_**
+**_This sentence is bold and in italics because it is wrapped in both._**
 
-This sentence links to [google](google.com).
+This sentence links to [google](www.google.com).
