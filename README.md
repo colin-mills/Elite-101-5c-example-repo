@@ -1,4 +1,4 @@
-# Elite 101 5c example rep
+# Elite 101 5c example repo shouldn't change
 This repository is an example repo for students to reference and for the instructor to demonstrate in
 
 ## Smaller heading
